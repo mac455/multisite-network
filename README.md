@@ -1,4 +1,6 @@
 # Multi-Site Enterprise Network Lab (Full Build)
+<img width="1558" height="670" alt="image" src="https://github.com/user-attachments/assets/6c6cc36e-da43-4d1f-a479-fb251b9152b9" />
+
 
 This document highlights the full multi-site enterprise network build, including Sites 1–3, WAN connectivity, and OSPF multi-area routing. See `Site1_Enterprise_Network_Lab.md` for deep detail of the main site and `Troubleshooting_InterVLAN_Routing.md` for the troubleshooting playbook.
 
